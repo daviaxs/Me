@@ -1,0 +1,9 @@
+@media (min-width: 945px) {
+  :root {
+    --bg-url: url(../utilities/images/bgs/bg-desktop-dark.jpg);
+  }
+
+  .light {
+    --bg-url: url(../utilities/images/bgs/bg-desktop-light.jpg);
+  }
+}

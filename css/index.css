@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  height: 100vh;
 }
 
 :root {
@@ -24,7 +25,8 @@ body {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 540px;
   margin: 56px auto 32px;
   padding: 0 24px;
 }
